@@ -11,15 +11,15 @@ Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
 ### Add more channels
 Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 
-Create a pull request or connect: https://discord.gg/dmgYmAEdee
+Create a pull request or connect: 
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+Paste this URL: `https://raw.githubusercontent.com/gift4bd/yt_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/benmoose39/YouTube_to_m3u.git
-cd YouTube_to_m3u
+git clone https://github.com/gift4bd/yt_to_m3u.git
+cd yt_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
 ```
