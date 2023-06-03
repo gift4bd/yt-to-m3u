@@ -103,7 +103,7 @@ https://youtube.com/@PTVNewsOfficial/live
 HUM NEWS HD Pak YTLive | Pakistan | https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png |
 https://www.youtube.com/live/oo2bSXPFMBU
 
-R. বাংলা | Bangla News YTLive | https://upload.wikimedia.org/wikipedia/commons/b/bf/R._Bangla_transparent_PNG.png |
+R. বাংলা YTLive | Bangla News | https://upload.wikimedia.org/wikipedia/commons/b/bf/R._Bangla_transparent_PNG.png |
 https://youtube.com/@republicbangla/live
 
 Din Raat Live News YTLive | Bangla News | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEGn0nPWA6ftjgMvmWIJcppDdS4wHyb6pce9QwAXD7ICy8t20CTyki2U&s=10 |
@@ -437,7 +437,7 @@ News 18 Kannada | Kannada | |
 https://www.youtube.com/channel/UCa-vioGhe2btBcZneaPonKA/live
 
 Wion | English News | |
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
+https://youtube.com/c/WION/live
 
 Molek FM live | Radio Stations | |
 https://www.youtube.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA/live
@@ -455,7 +455,7 @@ BBC Persian | Persian | |
 https://www.youtube.com/channel/UCHZk9MrT3DGWmVqdsj5y0EA/live
 
 Euronews | English News | https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png |
-https://youtube.com/@euronews/live
+https://www.youtube.com/c/euronews/live
 
 Rangin Kaman | Persian | |
 https://www.youtube.com/watch?v=kekJOJpHuIQ
@@ -689,7 +689,7 @@ Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png |
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
 SKY NEWS | UK | https://i.imgur.com/h9vCGRv.png |
-https://youtube.com/@SkyNews/live
+https://youtube.com/c/SkyNews/live
 
 TVONE TV | INDONESIA | https://i.imgur.com/YcqA1r5.png |
 https://www.youtube.com/watch?v=yNKvkPJl-tg
