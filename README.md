@@ -5,7 +5,7 @@
 
 `[https://raw.githubusercontent.com/gift4bd/yt_to_m3u/main/youtube.m3u](https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/youtube.m3u)`
 
-Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
+Updated m3u links of YouTube live channels, **auto-updated every 1 hours**.
 
 
 ### Add more channels
@@ -24,7 +24,7 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
-Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
+Do not forget to add a cron job set for every 2 hours(or 3) if you plan to run the script locally.
 
 ### Support
 
