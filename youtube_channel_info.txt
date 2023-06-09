@@ -136,10 +136,10 @@ https://youtube.com/@CGTNEurope/live
 CNA 24x7 YTLive | English News | https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png |
 https://youtube.com/@channelnewsasia/live
 
-Nat Geo Wild YTLive | Documentary | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png |
+Nat Geo Wild YTLive | Infotainment | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png |
 https://youtube.com/@NatGeoWild/live
 
-National Geographic YTLive | Documentary | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg | 
+National Geographic YTLive | Infotainment | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg | 
 https://youtube.com/@NatGeo/live
 
 Telugu Movies  YTLive | Telugu | |
