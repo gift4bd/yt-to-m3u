@@ -12,10 +12,10 @@ Ekhon TV YTLive | BD-Bangla | https://www.ekhon.tv/media/common/ekhonTVlogo.png 
 https://youtube.com/@ekhontv/live
 
 NTV BD YTLive | BD-Bangla | https://www.ntvbd.com/sites/all/themes/sloth/logo.png |
-https://youtube.com/@WatchNTVshows/live
+https://youtube.com/@NTVDigitalLive/live
 
 RTV HD YTLive | BD-Bangla | https://2wk12w2dk3733zyjdf3secd9-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Rtv-logo-PNG-2.png |
-https://youtube.com/@RtvLiveBD/live
+https://youtube.com/@RtvNews/live
 
 ATN News YTLive | BD-Bangla | https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF |
 https://youtube.com/@atnnewsltd/live
@@ -32,8 +32,14 @@ https://youtube.com/@JamunaTVbd/live
 DBC News HD YTLive | BD-Bangla | https://logodix.com/logo/1738680.png |
 https://youtube.com/@dbcnewstv/live
 
+Desh TV YTLive | BD-Bangla | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/deshtv.png |
+https://youtube.com/@livedeshtv/live
+
+Nexus TV YTLive | BD-Bangla | https://i.imgur.com/R9qm0WW.png |
+https://youtube.com/@NexusTelevisionLive/live
+
 News 24 HD YTLive | BD-Bangla | https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png |
-https://youtube.com/@NEWS24TV/live
+https://youtube.com/@dailynews24x7daily/live
 
 Madani TV Bangla YTLive | BD-Bangla | https://www.clipartmax.com/png/full/263-2636352_keep-watching-madani-channel-madani-channel-logo-png.png | 
 https://youtube.com/@MadaniChannelBanglaLive/live
