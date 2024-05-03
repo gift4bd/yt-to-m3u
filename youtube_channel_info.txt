@@ -5,6 +5,12 @@
 Ekattor TV YTLive | BD-Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://youtube.com/@EkattorTelevision/live
 
+ATN News TV YTLive | BD-Bangla | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/atnnews.png |
+https://youtube.com/@atnnewsltd/live
+
+Bangla Vision TV YTLive | BD-Bangla | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/banglavision.png |
+https://youtube.com/@banglavisionlive/live
+
 Gazi TV YTLive | BD-Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
 https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
 
