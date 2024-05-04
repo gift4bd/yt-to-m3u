@@ -2,6 +2,15 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+Desh TV YTLive | BD-Bangla | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/deshtv.png |
+https://youtube.com/@livedeshtv/live
+
+Independent TV YTLive | BD-Bangla | https://raw.githubusercontent.com/fraudiay79/logos/master/bd/independent.png |
+https://youtube.com/@IndependentTelevision/live
+
+Nexus TV YTLive | BD-Bangla | https://imgur.com/download/R9qm0WW/OnPaste.20230723-115521 |
+https://youtube.com/@NexusTelevisionLive/live
+
 Ekattor TV YTLive | BD-Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://youtube.com/@EkattorTelevision/live
 
@@ -39,7 +48,7 @@ Madani TV Bangla YTLive | BD-Bangla | https://www.clipartmax.com/png/full/263-26
 https://youtube.com/@MadaniChannelBanglaLive/live
 
 Channel I YTLive | BD-Bangla | https://i.imgur.com/p0I5dr0.png | 
-https://youtube.com/@ChanneliNews/live
+https://youtube.com/c/channelionline/live
 
 RTV Music HD YTLive | BD-Bangla | http://tv.bdtype.com/uploads/tv_image/sm/rtv-music.png | 
 https://youtube.com/c/RtvMusic/live
