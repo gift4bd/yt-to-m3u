@@ -392,7 +392,7 @@ https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725800956/ei/nE3dZtO5IJuYsfIP057w4QI/ip/20.172.5.87/id/jYw3AZTltyY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257036/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9oXlvjQb7R0xTW45jqP_BvjUnwZQP7U57brTntnUUfGMkR_iba9jMc1ryio/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCpq8zNaG_QH5lFj7flSL6_mVxBqbpbVchmBGDaUk6ccCIF9rS2jikM88-LTm2yK7st0Od3i7McV36bR2Mcd8PDPR/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
