@@ -419,7 +419,7 @@ https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="" tvg-id="", Molek FM live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727647888/ei/MHz5Zvn0B-CCkucP2uvOGQ/ip/20.55.14.224/id/_j2ZMsM2uMk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxZT2nl4kfmrgK1jRguWUiGI1-O7gKShC9UuK2hcpg2nLv6dd6BUoCP6gTBU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152%2C51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQaAKQ34n4Kuz-tT9AgKkJD3r3z8YS-gC_fVW3zrphfwCIADlUg0gkneeDlYP6WCK6x8lUQuJPQdFtyL5v02ZvExN/file/index.m3u8
+https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
