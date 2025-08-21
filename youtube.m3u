@@ -183,7 +183,7 @@ https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", IndiaTV
-https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755763354/ei/On6maLe-AZ3uruEPzaT5sAQ/ip/104.209.12.66/id/Xmm3Kr5P1Uw.50/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLM7sQ7qVr3rNuao0186MsVdTERKKRv7pzjQyIUWfDRMIinnEB55NJjWxBZacTLq1NQfucTQS88c/spc/l3OVKWtPIqXEA6GLaT_8JaIAsnCpz8OucPqi_UbRE0oNjeCgQeeB267PFOEn-L9eQ-U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL40wLAXsIsB1AtMTIAUvT6zaFnGtAb4a8jxHupfBYteAiArRrWNEFklE4XX9TDDN4iu2D86Ebgo5kADSP3QRZjZpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
