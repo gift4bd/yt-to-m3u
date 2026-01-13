@@ -701,7 +701,7 @@ https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="Times Square" tvg-logo="" tvg-id="", Times Square: 1560 Broadway View Live
-https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768292695/ei/96xlaYaIJfisybgPwvyR8Qo/ip/52.154.131.98/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_q2JhtgyeL4LSElAdDGtE8RihZm28NUqjbhM3sMJOIpSN8YHFUgl2QrBh2vSIdmLltbMnF0ATUD/spc/q5xjPOdHPZCdUrrWfwRRcGJMp3U7r90B4f9l7CENAZtj-q5OLn6XjWGKDojsxJLBLps/vprv/1/go/1/ns/p_QW1cCgYKGS3Rjw2x0lqRAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/P5kIclTufANCgxM0Jmc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgewZ8OmkEap-nPdabIF3QdvHljEMWmbJIB7DoxO8vwpYCIQDt01qqoFunj2wA65ZNX1GFFY24l2Gjv2DblYhcdJpsVA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera" tvg-logo="" tvg-id="", Dubuque County - Dome
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
