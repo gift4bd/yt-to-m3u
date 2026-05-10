@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Bd-Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Ekattor TV YTLive
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778320007/ei/J67-aaKCMOi8kucPoJvzkAk/ip/172.172.87.85/id/q8NJqS6H8PA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AbKmrwpwZl5RREf3SFhip_bjZ-cRqJ3oYy7mihGH3tz3PzHo8NE01QJ7nvF8BvIY3ggoqVpLj4V8eIM4/spc/96XrvzMWqdDzVb9ksmts2Rg9qFxnWYuuCaRoW5snd9RQM8QGDPYS8ViW_yWuLvV6TZaeiw/vprv/1/go/1/ns/vdxlXXrGcuit603Cfr5yT60U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/NLDBaPLtwW48SyUYbi/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgUmKoGQKVlHTqxcJU8rat0Z_JNxayvqadkJzuvSheTtoCIQCBiAqn6TWcCla-m_Cq0ZwsGzRkn9zCGXF6LlGwNGaMnw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 group-title="Bd-Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Gazi TV YTLive
 https://raw.githubusercontent.com/gift4bd/yt-to-m3u/main/assets/moose_na.m3u8
